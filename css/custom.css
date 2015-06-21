@@ -1,0 +1,264 @@
+      body {
+        width: 100%;
+      }
+
+      .logo {
+          font-weight: bold;       
+      }
+
+      #home {
+        margin-top: 51px;
+      }
+
+      #home_p {
+        font-weight: bold;
+        font-size: 1.2em;
+        margin-top: 100px;
+      }
+
+      .homePageTop {
+        padding-top: 130px;
+      }
+
+       .resumePageTop {
+        padding-top: 100px;
+      }
+
+       .contactPageTop {
+        padding-top: 170px;
+      }
+
+       .whatsnewPageTop {
+        padding: 80px 0 0 20px;
+      }
+
+       .whatsnewPageText {
+        padding: 40px 0 0 0px;
+        color: #666666;
+        line-height: 300%;
+      }
+
+       #whatsnewPageHeading {
+        font-size: 1.3em  !important;
+      }      
+
+      .whatsNewli {
+        font-size: 1.5em;
+      }
+
+      h1 {
+        font-size: 4em;
+        color: #666666;
+
+      }
+
+      #contact {
+        padding: 80px 0 20px 11px;
+        color: #666666;
+      }
+
+
+      #contact_links {
+        padding: 100px 0 0 80px;
+        color: #666666;
+      }
+
+      #contact_links p {
+        line-height: 300%;
+      }
+
+      #email_id {
+        padding-top: 10px;
+        font-weight: bold;
+      }
+
+      .footer {
+        margin: 0;
+        padding-bottom: 20px;
+        padding-top:20px;
+        width: 100%;
+      }
+
+      .fa-circle {
+          color: #B2B2B2;
+      }
+
+      .copyright {
+          padding-top: 10px;
+          text-align: center;
+          color: #B2B2B2;
+      }
+
+     .clear-navbar-inner {
+          background: none !important;
+          border: 0 !important;
+      }
+
+      #baby_image {
+          width: 284px;
+          height: 177px;
+      }
+
+      .image_description {
+          margin-top: 100px;
+          padding: 0;
+
+      }
+
+      .short_description {
+
+          font-size: 1.1em;
+          line-height: 200%;
+
+      }
+
+      .box1 {
+        width: 100%;
+        background-color: #FFCCFF;
+        border: 1px solid black;
+        padding: 0;
+      }
+
+      .box2 {
+        width: 100%;
+        background-color: #FF9933;
+        border: 1px solid black;
+        padding: 0;
+      }      
+
+      .box3 {
+        background-color: #FFFFFF;
+        border: 1px solid black;
+        padding: 0;
+      }
+
+      .box4 {
+        background-color: #D1FFC2;
+        border: 1px solid black;
+        padding: 0;
+      }
+
+      .box {
+        /*background-color: #FFCCFF;*/
+        border: 1px solid black;
+      }
+
+      #profile_image {
+        width:300px;
+        height:300px;
+        border-radius:150px;
+
+        /*border: 1px solid black; */
+      }
+
+      .work {
+        padding-bottom: 70px;
+      }
+
+      .work_class {
+        padding-left: 5px;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding-bottom: 2px;
+        letter-spacing: 1px;
+        font: 38px;
+        position: relative;
+      }
+
+      .work_class:before {
+        content: "";
+        position: absolute;
+        left: 5px;
+        bottom: 0;
+        height: 1px;
+        width: 32%;
+        border-bottom: 3px solid #11ABB0;
+      }
+
+      .education_class {
+        padding-left: 5px;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding-bottom: 2px;
+        letter-spacing: 1px;
+        font: 38px;
+        position: relative;
+      }
+
+      .education_class:before {
+        content: "";
+        position: absolute;
+        left: 5px;
+        bottom: 0;
+        height: 1px;
+        width: 58%;
+        border-bottom: 3px solid #11ABB0;
+      }
+
+      h4 {
+        text-decoration-color:green;
+      }
+
+      .skill_box {
+        padding-left: 20px;
+        letter-spacing: 1px;
+
+      }
+
+      .skills {
+        font-size:18px;
+        border-left-width: 1px solid #11ABB0;
+      }
+
+      .job {
+        padding: 10px 0 20px 10px;
+      }
+      
+      .position_title {
+        font-size: 20px;
+        padding-bottom: 5px;
+        display: block;
+        letter-spacing: 1px;
+
+      }
+
+      .company_title {
+        font-size: 15px;
+        padding-bottom: 5px;
+        display: block;
+        letter-spacing: 1px;
+      }
+
+      .job_period {
+        padding-bottom: 5px;
+
+      }
+
+      #project_page {
+        padding-left: 0;
+        margin-left: 0;
+        padding-bottom: 20px;
+        letter-spacing: 1px;
+        border-bottom: 2px solid #11ABB0;
+      }
+
+      .project_title {
+        padding: 5px 0 5px 0;
+        position: relative;
+      }
+
+      .project_title:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 1px;
+        width: 40%;
+        border-bottom: 2px solid #11ABB0;
+      }
+
+      .project_description {
+        padding: 25px 0 15px 0;
+        line-height: 170%;
+
+      }
